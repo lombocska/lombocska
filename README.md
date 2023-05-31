@@ -10,9 +10,9 @@ Check my recent posts on Medium
 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lombos.monika/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lombos.monika/1" alt="Recent Article 1">  
 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lombos.monika/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lombos.monika/2" alt="Recent Article 2">  
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lombos.monika/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lombos.monika/2" alt="Recent Article 2">  
 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lombos.monika/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lombos.monika/3" alt="Recent Article 3"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lombos.monika/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lombos.monika/3" alt="Recent Article 3"> 
 
 
 
