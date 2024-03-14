@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-## Fiverr account
-
- https://www.fiverr.com/lombocska
-
 
 ## Check my recent posts on Medium
 
